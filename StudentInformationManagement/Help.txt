@@ -1,0 +1,13 @@
+Perquisite Softwares :
+VS2008
+Sql server 2005
+Sql server management studio
+. NET Framework 3.0 and 3.5
+Crystal reports 2008
+
+
+Attach db from db folder to youre sqlexpress server.
+for changig conection string alter model.vb file.
+
+User name :- admin
+Password :- admin
